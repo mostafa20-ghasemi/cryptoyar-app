@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CryptoYar" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#1A2030</item>
+        <item name="android:windowBackground">#1A2030</item>
+    </style>
+</resources>
